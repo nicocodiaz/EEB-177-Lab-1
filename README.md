@@ -11,3 +11,23 @@
 
 #Link to Youtube Video of Golden Doodle
 [this is video of a Golden Doodle](https://www.youtube.com/watch?v=S6-KliEgzsM)
+
+
+## Grade Duscission #1: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
+
+
+## Grade Duscission #2: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
